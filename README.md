@@ -6,16 +6,22 @@ EM CONSTRUÇÃO!
 
 ## Geral
 
-Nessa seção listo de modo geral o que pode ser feito de modo geral. Digamos que seria o ponto inicial antes de prosseguirmos com os próximos passos. Sem esses passos dessa parte, prosseguir para outra categoria seria um desperdicio de tempo.
+Nessa seção listo o que pode ser feito de modo geral. Digamos que seria o ponto inicial antes de prosseguirmos com os próximos passos.
 
-- Ligar MFA / 2FA: Para Emails, Bancos, Redes Sociais. O ideal seria ligar para todos os serviços que disponibilizar essa opção porém ligando para as "Principais" já seria um grande avanço.
-- Fechar Contas Não Utilizadas
-  
-- Usar Gerenciador de Senhas: Começar escolhendo um Gerenciador de Senhas, pode ser Pago, eu indico [1Password](https://1password.com/) ou uma versão Gratuita, eu indico o [Bitwarden](https://bitwarden.com/).
-  
-- Habilitar Google Alertas
-  
-- Habilitar Google Privacidade
+#### • Ligar MFA / 2FA
+
+O ideal, seria utilizar essa funcionalidade em todos os sites que oferecem esse tipo de funcionalidade. Porém é estritamente necessário ligá-los para Emails, Bancos, Redes Sociais.
+
+#### • Fechar Contas Não Utilizadas
+
+Contas que há muito tempo são acessadas, é ideal encerrá-las. Caso haja alguma invasão nesses sites, seus dados não serão roubados.
+
+#### • Usar Gerenciador de Senhas
+
+Começar escolhendo um Gerenciador de Senhas, pode ser Pago, como o [1Password](https://1password.com/) ou uma versão Gratuita, como o [Bitwarden](https://bitwarden.com/).
+
+#### • Habilitar Google Alertas
+#### • Habilitar Google Privacidade
 
 ## Endereço
 
